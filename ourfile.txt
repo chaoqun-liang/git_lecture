@@ -1,4 +1,3 @@
 This is the first line
-A second line
-This is the feature line
+A second line that is awesome
 
